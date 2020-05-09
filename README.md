@@ -34,7 +34,7 @@
 ![Class Diagram](images/class-diagram.png)
 
 ## Requirement 2: Project write-up - Libraries
-Roles which is a library was used to manage access control in DAPP. It was used to add and remove roles in the access control contracts ```FarmerRole.sol, DistributorRole.sol, RetailerRole.sol, and ConsumerRole.sol```. ```truffle-assertions`` was also used for emitted events comparism in the test file
+Roles which is a library was used to manage access control in DAPP. It was used to add and remove roles in the access control contracts ```FarmerRole.sol, DistributorRole.sol, RetailerRole.sol, and ConsumerRole.sol```. ```truffle-assertions``` was also used for emitted events comparism in the test file
 
 ## Requirement 3: Project write-up - IPFS
 IPFS was not used in the project at all
